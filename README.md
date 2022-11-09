@@ -1,6 +1,6 @@
 # Análise de dados com Python e Pandas
 
-
+Esta análise de dados utilizando Python foi realizda como parte do Bootcamp Ciência de Dados DIO Unimed.
 
 
 
